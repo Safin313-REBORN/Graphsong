@@ -1,0 +1,10 @@
+# Graphsong
+
+> Hear the shape of a function. Graphsong turns math equations and CSV tables into stereo Web Audio and plain-English spoken descriptions for blind and low-vision students.
+
+## Key Pages
+- `/` — Overview, how it works, who it helps, FAQ
+- `/app` — Interactive math sonification player, compare mode, derivative audio, 6 guided lessons
+- `/accessibility` — Keyboard shortcuts, screen reader support, contrast, and honest limitations
+- `/privacy` — Local-only processing policy (no data leaves the browser)
+- `/terms` — Educational terms of use

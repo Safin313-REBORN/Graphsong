@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FBF7EE"/>
+  <rect x="40" y="40" width="1120" height="550" rx="16" fill="#FFFFFF" stroke="#14213D" stroke-width="6"/>
+  <path d="M90 360 C190 220, 290 480, 390 340 S590 160, 690 340 S890 500, 1090 240" stroke="#2B59C3" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <line x1="80" y1="340" x2="1120" y2="340" stroke="#D9D2C0" stroke-width="4"/>
+  <circle cx="390" cy="340" r="14" fill="#0B6E70"/>
+  <circle cx="690" cy="340" r="14" fill="#0B6E70"/>
+  <text x="90" y="135" font-family="Georgia, serif" font-size="68" font-weight="bold" fill="#14213D">Graphsong</text>
+  <text x="90" y="200" font-family="sans-serif" font-size="34" fill="#14213D">Hear the shape of a function. Education &amp; Accessibility.</text>
+</svg>
